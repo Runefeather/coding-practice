@@ -3,3 +3,4 @@ This respository contains code for exercises from Leetcode and Techgig, and serv
 
 ## Tracker
 * Jan 1 - 5/5 problems done.
+* Jan 2 - 4/5 problems done.
